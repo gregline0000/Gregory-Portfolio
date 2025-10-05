@@ -1,0 +1,105 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 300
+>>
+stream
+BT
+/F1 12 Tf
+100 700 Td
+(Gregory Sarfo Arthur) Tj
+0 -20 Td
+(Computer Science Graduate) Tj
+0 -20 Td
+(Email: gregline0000@gmail.com) Tj
+0 -20 Td
+(Phone: +233 561 903 228) Tj
+0 -20 Td
+(Location: Accra, Ghana) Tj
+0 -40 Td
+(EDUCATION) Tj
+0 -20 Td
+(Bachelor of Education in Computer Science) Tj
+0 -10 Td
+(University of Cape Coast) Tj
+0 -20 Td
+(EXPERIENCE) Tj
+0 -20 Td
+(Public Relations Officer - APSU HOPSA UCC) Tj
+0 -20 Td
+(Hall Coordinator & Organizer - Rosa UCC) Tj
+0 -20 Td
+(Teaching Practice - UPSHS) Tj
+0 -20 Td
+(SKILLS) Tj
+0 -20 Td
+(Web Development: HTML/CSS/JavaScript, React, Node.js) Tj
+0 -20 Td
+(UI/UX Design: User Research, Prototyping, Design Systems) Tj
+0 -20 Td
+(Education: Curriculum Development, Teaching Methodologies) Tj
+0 -20 Td
+(PROJECTS) Tj
+0 -20 Td
+(E-Learning Management System - bill365.hocoos.com) Tj
+0 -20 Td
+(Student Information System - Full-stack application) Tj
+0 -20 Td
+(UI/UX Design System - Comprehensive design library) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000600 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+698
+%%EOF
